@@ -1,3 +1,3 @@
 # fran
 
-Fran is a simple API for testing various CI/CD related opportunites.
+Fran is a simple API for testing various CI/CD related testing.
